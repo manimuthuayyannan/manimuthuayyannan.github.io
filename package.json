@@ -1,5 +1,5 @@
 {
-  "name": "ErfanRht.Github.io",
+  "name": "manimuthuayyannan.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ErfanRht/ErfanRht.Github.io.git"
+    "url": "git+https://github.com/manimuthuayyannan/manimuthuayyannan.Github.io.git"
   },
   "keywords": [
-    "Erfan Rahmati",
-    "ErfanRht",
+    "Manimuthu Ayyannan",
+    "manimuthuayyannan",
     "Portfolio",
     "Github"
   ],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ErfanRht/ErfanRht.Github.io/issues"
+    "url": "https://github.com/manimuthuayyannan/manimuthuayyannan.Github.io/issues"
   },
-  "homepage": "https://github.com/ErfanRht/ErfanRht.Github.io#readme",
+  "homepage": "https://github.com/manimuthuayyannan/manimuthuayyannan.Github.io#readme",
   "dependencies": {
     "node-sass": "^7.0.1"
   }
